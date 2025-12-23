@@ -2,7 +2,7 @@
 
 > **¿Te has bajado eMule por nostalgia pero la mula tiene una venda en los ojos y descarga lentísimo?** No te preocupes, no eres el único.
 
-Bienvenido. Este repositorio es una guía **explicada para seres humanos** (no para informáticos) sobre cómo configurar correctamente eMule si tienes un router **LiveBox** (el que suelen poner **Orange, Jazztel o Simyo**).
+Bienvenido. Este repositorio es una guía **explicada para seres humanos** (no para informáticos) sobre cómo configurar correctamente eMule con tu router.
 
 ### 🎯 El Objetivo
 Pasar de las flechas amarillas (ID Baja) a las **flechas verdes (ID Alta)** para descargar a la máxima velocidad que permita tu fibra óptica.
